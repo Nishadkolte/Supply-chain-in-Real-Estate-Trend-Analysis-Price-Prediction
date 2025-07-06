@@ -48,7 +48,7 @@ This project aims to address these gaps with robust data analytics and visualiza
 - Found a 44% R² indicating moderate predictive accuracy
 - Incorporated autocorrelation checks (Durbin-Watson = 1.50)
 
-### 4️⃣ Machine Learning Concepts *(Theoretical Scope)*
+### 4️⃣ Machine Learning Concepts
 - **Supervised Learning**: Linear Regression, Decision Trees
 - **Unsupervised Learning**: K-Means Clustering for segmentation
 - **Deep Learning**: Neural networks for image & pattern recognition
