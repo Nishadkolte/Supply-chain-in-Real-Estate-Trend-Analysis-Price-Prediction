@@ -80,6 +80,7 @@ You can explore the Power BI dashboard (file: `dashboard.pbix`) for:
 - 📍 Location-wise insights
 - 📊 Budget category performance
 - 📈 Forecast trends over time
+---
 https://github.com/Nishadkolte/Supply-chain-in-Real-Estate-Trend-Analysis-Price-Prediction/blob/main/Nishad%20kolte%20Power%20Bi%201_page-0001.jpg
 
 ---
