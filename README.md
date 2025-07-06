@@ -82,7 +82,7 @@ You can explore the Power BI dashboard (file: `dashboard.pbix`) for:
 - 📈 Forecast trends over time
 ---
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+
 Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
 
 ---
