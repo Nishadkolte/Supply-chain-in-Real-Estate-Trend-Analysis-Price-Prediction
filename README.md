@@ -44,6 +44,7 @@ This project aims to address these gaps with robust data analytics and visualiza
   - 🕹️ Filterable user interactions
 
 ### 3️⃣ Time Series Forecasting
+(https://github.com/user-attachments/assets/5ba3671c-6e56-41a3-a394-051c264f8022)
 - Used Least Squares Regression for monthly registration trend prediction
 - Found a 44% R² indicating moderate predictive accuracy
 - Incorporated autocorrelation checks (Durbin-Watson = 1.50)
